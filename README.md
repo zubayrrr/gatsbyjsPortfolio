@@ -15,3 +15,6 @@ Can be found live on *[zubayr.netlify.app](https://zubayr.netlify.app/)* 😍
 
 ---
 
+https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit
+
+
