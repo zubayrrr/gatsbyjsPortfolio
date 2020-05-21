@@ -1,4 +1,5 @@
 import React from "react"
+import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 
 import Repository from "../components/repository"
@@ -16,6 +17,9 @@ const Projects = ({ data }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Projects</title>
+      </Helmet>
      <div
         style={{
           margin: `0 auto`,
