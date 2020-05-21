@@ -2,7 +2,7 @@
 
 
 ## This is a simple JAMStack App, personal portfolio and blog.<br>
-Made using a **Gatsbyjs** starter [Delog](https://github.com/W3Layouts/gatsby-starter-delog) ❤ <br>
+Made using a **Gatsbyjs** starter [Delog](https://github.com/W3Layouts/gatsby-starter-delog) and [gatsby-starter-github-api](https://github.com/lundgren2/gatsby-starter-github-api) 🙏  <br> 
 Can be found live on *[zubayr.netlify.app](https://zubayr.netlify.app/)* 😍
 
 
@@ -11,9 +11,9 @@ Can be found live on *[zubayr.netlify.app](https://zubayr.netlify.app/)* 😍
 - Option to Add, Edit, Update and Delete posts via Netlify CMS 🔥
 - SEO friendly 👌
 - Netlify forms ✌
-- Comes with dark mode 😎
+- Comes with dark mode 🌓
 
----
 
+## Deploy 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zubayrrr/gatsbyjsPortfolio)
 
