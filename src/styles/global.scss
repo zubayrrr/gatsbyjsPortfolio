@@ -72,10 +72,10 @@ a {
   padding: 1rem;
   font-size: 16px;
 }
-
 .repo-desc{
   margin-bottom: 5px;
 }
+
 .site-wrapper {
   padding: 32px;
   max-width: 1140px;
@@ -88,17 +88,17 @@ a {
 .navigation {
   display: flex;
   align-items: center;
-  font-weight: 600;
+  font-weight: 400;
   a {
-    color: var(--primary-color);
+    color: var(--text-color);
     text-decoration: none;
     margin: 0 8px 0;
     &[aria-current] {
-      color: var(--primary-color);
-      font-weight: 700;
+      color: var(--text-color);
+      font-weight: 500;
     }
     &:hover {
-      color:#888;
+      color:var(--primary-color);
     }
     &:last-child {
       margin-right: 0;
@@ -475,4 +475,13 @@ body.light {
     padding: 18px;
   }
 
+  .headline {
+    font-size: 32px;
+  }
+ }
+
+ @media (max-width: 400px) { 
+  .headline {
+    font-size: 28px;
+  }
  }
