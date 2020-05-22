@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p style={{display: `inline-block`}}>&copy; {(new Date()).getFullYear()} <a target="_blank" rel="noopener noreferrer" href="https://github.com/zubayrrr">Zubayr</a> &bull; <span className="footer-text">Crafted with <span role="img" aria-label="love">💖 in <b>Indiain</b>.</span></span></p>
+        <p style={{display: `inline-block`}}>&copy; {(new Date()).getFullYear()} <a target="_blank" rel="noopener noreferrer" href="https://github.com/zubayrrr">Zubayr</a> &bull; <span className="footer-text">Crafted with <span role="img" aria-label="love">💖 in <b>India</b>.</span></span></p>
       </footer>
     </div>
   )
