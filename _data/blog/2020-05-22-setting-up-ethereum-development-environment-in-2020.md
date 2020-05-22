@@ -38,6 +38,8 @@ thumbnail: /assets/og-image.png
 
 4. **MetaMask**-  MetaMask  is a browser extensions that lets you run dApps without being part of the Ethereum network as a Ethereum Node. It manages your Ethereum wallet, which contains your Ethers (or money), and allows you to send and receive Ethers through a dApp of interest. 
 
+![metamask logo](/assets/metamask.png "MetaMask ")
+
 \    Download MetaMask from: <https://metamask.io/download.html>
 
 > *Documentation*: [https://docs.metamask.io/guide](https://docs.metamask.io/guide/)/
