@@ -8,6 +8,25 @@ thumbnail: /assets/og-image.png
 ---
 <!--StartFragment-->
 
+# Installing prerequisites
+
+1. **NodeJs**- Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. 
+
+   Download NodeJs from: <https://nodejs.org/en/download/>
+
+   > *Documentation*: <https://nodejs.org/en/docs/>
+
+   * **NPM**- is a package manager for Node.js files. Developers use this to download dependencies. It comes 
+
+     **preinstalled** when you install NodeJs.
+2. **VScode**- Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes embedded Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.
+
+   Download VScode from: <https://code.visualstudio.com/download>
+
+   * **VScode Solidity extension for syntax highlighting**
+
+     Get it from: <https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity>
+
 # Installing essential tools
 
 1. **Solc**- The Solidity compiler. This turns our human-readable Solidity code into Ethereum bytecode, which Ethereum network nodes understand how to execute.
@@ -34,12 +53,9 @@ thumbnail: /assets/og-image.png
 
    Download Ganache from: <https://github.com/trufflesuite/ganache/releases>
 
-> *Documentation*: <https://www.trufflesuite.com/docs/ganache/overview> 
-
+   > *Documentation*: <https://www.trufflesuite.com/docs/ganache/overview> 
 4. **MetaMask**-  MetaMask  is a browser extensions that lets you run dApps without being part of the Ethereum network as a Ethereum Node. It manages your Ethereum wallet, which contains your Ethers (or money), and allows you to send and receive Ethers through a dApp of interest. 
 
-![metamask logo](/assets/metamask.png "MetaMask ")
+   Download MetaMask from: <https://metamask.io/download.html>
 
-\    Download MetaMask from: <https://metamask.io/download.html>
-
-> *Documentation*: [https://docs.metamask.io/guide](https://docs.metamask.io/guide/)/
+   > *Documentation*: [https://docs.metamask.io/guide](https://docs.metamask.io/guide/)/
