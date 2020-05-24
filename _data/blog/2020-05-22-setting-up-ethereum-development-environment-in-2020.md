@@ -18,11 +18,10 @@ thumbnail: /assets/og-image.png
 
       *Documentation*: [Here](https://nodejs.org/en/docs/)
 
-   * **NPM**- is a package manager for Node.js files. Developers use this to download dependencies. It comes 
+   * **NPM**- is a package manager for Node.js files. Developers use this to download dependencies. It comes **preinstalled** when you install NodeJs.   
 
-     ```
-      **preinstalled** when you install NodeJs.
-     ```
+<p>&nbsp;</p>
+
 2. **VScode**- Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes embedded Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
       ![VScode](/assets/vscode.png))
@@ -31,9 +30,10 @@ thumbnail: /assets/og-image.png
 
    * **VScode Solidity extension for syntax highlighting**
 
-     ```
+  
       Get it from: [Here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
-     ```
+    
+<p>&nbsp;</p>
 
 # Installing essential tools
 
@@ -41,15 +41,13 @@ thumbnail: /assets/og-image.png
 
       ![Solidity](/assets/solidity.png)
 
-   ```
    Install solc using: 
-   ```
-
    ```shell
    npm install -g solc
    ```
 
       *Documentation*: [Here](https://solidity.readthedocs.io/en/latest/installing-solidity.html)
+<p>&nbsp;</p>
 2. **Truffle**- A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier 
 
 ![Truffle](/assets/truffle.png)
@@ -76,7 +74,7 @@ thumbnail: /assets/og-image.png
 
 <p>&nbsp;</p>
 
-1. **MetaMask**-  MetaMask  is a browser extensions that lets you run dApps without being part of the Ethereum network as a Ethereum Node. It manages your Ethereum wallet, which contains your Ethers (or money), and allows you to send and receive Ethers through a dApp of interest. 
+4. **MetaMask**-  MetaMask  is a browser extensions that lets you run dApps without being part of the Ethereum network as a Ethereum Node. It manages your Ethereum wallet, which contains your Ethers (or money), and allows you to send and receive Ethers through a dApp of interest. 
 
 ![MetaMask](/assets/metamask.png)
 
