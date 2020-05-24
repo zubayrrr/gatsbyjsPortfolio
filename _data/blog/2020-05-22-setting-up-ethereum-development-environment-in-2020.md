@@ -12,7 +12,7 @@ thumbnail: /assets/og-image.png
 
 1. **NodeJs**- Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. 
 
-   ![NodeJs](../../public/assets/nodejs.png)
+   ![NodeJs](../../static/assets/nodejs.png)
 
    Download NodeJs from: [Here](https://nodejs.org/en/download/)
 
@@ -24,7 +24,7 @@ thumbnail: /assets/og-image.png
 <p>&nbsp;</p>
 1. **VScode**- Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes embedded Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
-   ![VScode](../../public/assets/vscode.png))
+   ![VScode](../../static/assets/vscode.png))
 
    Download VScode from: [Here](https://code.visualstudio.com/download)
 
@@ -37,7 +37,7 @@ thumbnail: /assets/og-image.png
 
 1. **Solc**- The Solidity compiler. This turns our human-readable Solidity code into Ethereum bytecode, which Ethereum network nodes understand how to execute.
 
-   ![Solidity](../../public/assets/solidity.png)
+   ![Solidity](../../static/assets/solidity.png)
 
     Install solc using: 
 
@@ -51,7 +51,7 @@ thumbnail: /assets/og-image.png
 
 1. **Truffle**- A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier 
 
-![Truffle](../../public/assets/truffle.png)
+![Truffle](../../static/assets/truffle.png)
 
    Install Truffle using: 
 
@@ -65,7 +65,7 @@ thumbnail: /assets/og-image.png
 
 3. **Ganache**- is a personal blockchain for rapid Ethereum and Corda distributed application development. It provides an entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment. 
 
-   ![Truffle](../../public/assets/ganache.png)
+   ![Truffle](../../static/assets/ganache.png)
    
    Download Ganache from: [Here](https://github.com/trufflesuite/ganache/releases)
 
