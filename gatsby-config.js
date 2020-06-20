@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Zubayrs_Ali`,
-        short_name: `Zubayr_Ali`,
+        name: `Theory of Blockchain`,
+        short_name: `TOB`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#1ec503`,
